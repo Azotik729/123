@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\worker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\worker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\searcreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\searcreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\searcreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\searcreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\srearcbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\srearcbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\reader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\reader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\reader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\reader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\updatebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\updatebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\worker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\worker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\librarylycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\librarylycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\card.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\card.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearcReader.xaml.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SearcReader.xaml.cs",
+              "RelativeDocumentMoniker": "window\\SearcReader.xaml.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SearcReader.xaml.cs",
+              "RelativeToolTip": "window\\SearcReader.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwE4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:12:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearcReader.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SearcReader.xaml",
+              "RelativeDocumentMoniker": "window\\SearcReader.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SearcReader.xaml",
+              "RelativeToolTip": "window\\SearcReader.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T11:07:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SrearcBook.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SrearcBook.xaml",
+              "RelativeDocumentMoniker": "window\\SrearcBook.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SrearcBook.xaml",
+              "RelativeToolTip": "window\\SrearcBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T11:06:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Worker.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Worker.xaml",
+              "RelativeDocumentMoniker": "window\\Worker.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Worker.xaml",
+              "RelativeToolTip": "window\\Worker.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T11:05:15.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\User.cs",
+              "RelativeDocumentMoniker": "models\\User.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\User.cs",
+              "RelativeToolTip": "models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:57:22.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chapter.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Chapter.cs",
+              "RelativeDocumentMoniker": "models\\Chapter.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Chapter.cs",
+              "RelativeToolTip": "models\\Chapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:29:24.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryLyContext.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\LibraryLyContext.cs",
+              "RelativeDocumentMoniker": "models\\LibraryLyContext.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\LibraryLyContext.cs",
+              "RelativeToolTip": "models\\LibraryLyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:29:15.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Card.xaml.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Card.xaml.cs",
+              "RelativeDocumentMoniker": "window\\Card.xaml.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Card.xaml.cs",
+              "RelativeToolTip": "window\\Card.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:55:27.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:49:39.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Authorization.cs",
+              "RelativeDocumentMoniker": "models\\Authorization.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Authorization.cs",
+              "RelativeToolTip": "models\\Authorization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:49:02.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Book.cs",
+              "RelativeDocumentMoniker": "models\\Book.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Book.cs",
+              "RelativeToolTip": "models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:48:24.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.xaml.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Worker.xaml.cs",
+              "RelativeDocumentMoniker": "window\\Worker.xaml.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Worker.xaml.cs",
+              "RelativeToolTip": "window\\Worker.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:43:12.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "reader.xaml.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\reader.xaml.cs",
+              "RelativeDocumentMoniker": "window\\reader.xaml.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\reader.xaml.cs",
+              "RelativeToolTip": "window\\reader.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:43:08.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:42:56.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "front",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\front.csproj",
+              "RelativeDocumentMoniker": "front.csproj",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\front.csproj",
+              "RelativeToolTip": "front.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T09:42:54.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateBook.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml",
+              "RelativeDocumentMoniker": "window\\UpdateBook.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml",
+              "RelativeToolTip": "window\\UpdateBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:42:21.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddBook.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\AddBook.xaml",
+              "RelativeDocumentMoniker": "window\\AddBook.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\AddBook.xaml",
+              "RelativeToolTip": "window\\AddBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:41:49.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "reader.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\reader.xaml",
+              "RelativeDocumentMoniker": "window\\reader.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\reader.xaml",
+              "RelativeToolTip": "window\\reader.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:41:47.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Card.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Card.xaml",
+              "RelativeDocumentMoniker": "window\\Card.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Card.xaml",
+              "RelativeToolTip": "window\\Card.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:41:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Admin.xaml",
+              "RelativeDocumentMoniker": "window\\Admin.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Admin.xaml",
+              "RelativeToolTip": "window\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T09:41:43.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

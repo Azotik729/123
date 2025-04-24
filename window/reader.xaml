@@ -1,0 +1,19 @@
+﻿<Window x:Class="LykovFront.window.SearchReader"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LykovFront.window"
+        mc:Ignorable="d"
+        Title="reader" Height="404" Width="679">
+    <Grid>
+        <Button x:Name="ButtonReader" Content="карточка читателя" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="137" BorderBrush="#FF5643B3" Background="White" Foreground="#FF5643B3" Click="ButtonReader_Click"/>
+        <Button x:Name="Buttonexit" Content="Выход" HorizontalAlignment="Left" Margin="569,35,0,0" VerticalAlignment="Top" Width="81" BorderBrush="#FF5643B3" Background="White" Foreground="#FF5643B3"/>
+        <TextBox x:Name="searcTextBox" HorizontalAlignment="Left" Margin="10,92,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="204" BorderBrush="#FF5643B3"/>
+        <Button x:Name="ButtonSearch" Content="поиск" HorizontalAlignment="Left" Margin="235,91,0,0" VerticalAlignment="Top" Width="82" Background="White" BorderBrush="#FF5643B3" Foreground="#FF5643B3"/>
+        <ComboBox x:Name="WriterComboBox" HorizontalAlignment="Left" Margin="362,92,0,0" VerticalAlignment="Top" Width="120" Height="19" BorderBrush="#FF5643B3"/>
+        <ComboBox x:Name="ChapterComboBox" HorizontalAlignment="Left" Margin="530,92,0,0" VerticalAlignment="Top" Width="120" Height="18" BorderBrush="#FF5643B3"/>
+        <DataGrid x:Name="grid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,150,29,44" Background="White" BorderBrush="#FF5643B3" Foreground="#FF5643B3" SelectionChanged="DataGrid_SelectionChanged"/>
+
+    </Grid>
+</Window>

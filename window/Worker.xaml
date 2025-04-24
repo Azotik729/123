@@ -1,0 +1,15 @@
+﻿<Window x:Class="LykovFront.window.Worker"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LykovFront.window"
+        mc:Ignorable="d"
+        Title="Admin" Height="349" Width="595">
+    <Grid>
+        <Button x:Name="ReaderButton" Content="Читатель" HorizontalAlignment="Left" Margin="28,60,0,0" VerticalAlignment="Top" Width="215" Height="70" Foreground="#FF5643B3" BorderBrush="#FF5643B3" Background="White" Click="ReaderButton_Click"/>
+        <Button x:Name="BookButton" Content="Книги" HorizontalAlignment="Left" Margin="330,58,0,0" VerticalAlignment="Top" Height="70" Width="215" Background="White" BorderBrush="#FF5643B3" Foreground="#FF5643B3"/>
+        <Button x:Name="vidathaBookButton" Content="Выдача Книг" HorizontalAlignment="Left" Margin="180,150,0,0" VerticalAlignment="Top" Height="70" Width="215" BorderBrush="#FF5643B3" Foreground="#FF5643B3" Background="White"/>
+
+    </Grid>
+</Window>
