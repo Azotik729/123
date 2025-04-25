@@ -16,6 +16,6 @@
         <TextBox x:Name="WriterBookTextBook" HorizontalAlignment="Left" Margin="118,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" BorderBrush="#FF5643B3" Height="18"/>
         <TextBox x:Name="DataPostBookTextBox" HorizontalAlignment="Left" Margin="118,154,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" BorderBrush="#FF5643B3" Height="18"/>
         <TextBox x:Name="PriceBookTextBox" HorizontalAlignment="Left" Margin="118,204,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" BorderBrush="#FF5643B3" Height="18"/>
-        <Button x:Name="AddBookButton" Content="Button" HorizontalAlignment="Center" Margin="0,276,0,0" VerticalAlignment="Top" Width="110" BorderBrush="#FF5643B3" Foreground="#FF5643B3" Background="White" Height="20"/>
+        <Button x:Name="AddBookButton" Content="Button" HorizontalAlignment="Center" Margin="0,276,0,0" VerticalAlignment="Top" Width="110" BorderBrush="#FF5643B3" Foreground="#FF5643B3" Background="White" Height="20" Click="AddBookButton_Click"/>
     </Grid>
 </Window>

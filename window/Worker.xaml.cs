@@ -36,7 +36,7 @@ namespace LykovFront.window
 
         private void ReaderButton_Click(object sender, RoutedEventArgs e)
         {
-            var window = new SearchReader(user, client, baseUrl);
+            var window = new reader(user, client, baseUrl);
             window.Show();
             this.Close();
 

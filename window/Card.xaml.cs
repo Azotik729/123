@@ -28,5 +28,7 @@ namespace LykovFront.window
         {
             InitializeComponent();
         }
+
+      
     }
 }

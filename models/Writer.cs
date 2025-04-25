@@ -5,9 +5,9 @@ namespace Library.Models;
 
 public partial class Writer
 {
-    public int Id { get; set; }
+    public int id { get; set; }
 
-    public string Name { get; set; } = null!;
+    public string name { get; set; } = null!;
 
     public virtual ICollection<Book> Books { get; set; } = new List<Book>();
 }

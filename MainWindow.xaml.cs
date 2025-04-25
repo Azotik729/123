@@ -69,7 +69,7 @@ namespace LykovFront
                 }
                 else if (user1.role == 3)
                 {
-                    var window = new SearchReader(user1, apiClient, baseUrl);
+                    var window = new reader(user1, apiClient, baseUrl);
                     window.Show();
                     this.Close();
 

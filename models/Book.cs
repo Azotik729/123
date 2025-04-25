@@ -5,19 +5,19 @@ namespace Library.Models;
 
 public partial class Book
 {
-    public int IdBook { get; set; }
+    public int idBook { get; set; }
 
-    public int IdUser { get; set; }
+    public int idUser { get; set; }
 
-    public int IdWriter { get; set; }
+    public int idWriter { get; set; }
 
-    public int IdChapter { get; set; }
+    public int idChapter { get; set; }
 
-    public string? DataPost { get; set; }
+    public string? dataPost { get; set; }
 
-    public decimal? Price { get; set; }
+    public decimal? price { get; set; }
 
-    public string? Name { get; set; }
+    public string? name { get; set; }
 
     public virtual Chapter IdChapterNavigation { get; set; } = null!;
 

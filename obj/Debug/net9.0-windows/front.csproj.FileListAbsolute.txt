@@ -34,3 +34,4 @@ C:\Лыков М В\front\obj\Debug\net9.0-windows\front.genruntimeconfig.cache
 C:\Лыков М В\front\obj\Debug\net9.0-windows\ref\front.dll
 C:\Лыков М В\front\obj\Debug\net9.0-windows\window\SearcReader.g.cs
 C:\Лыков М В\front\obj\Debug\net9.0-windows\window\SearcReader.baml
+C:\Лыков М В\front\obj\Debug\net9.0-windows\front.sourcelink.json
