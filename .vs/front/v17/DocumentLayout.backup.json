@@ -3,52 +3,80 @@
   "WorkspaceRootPath": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\updatebook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\updatebook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\requests\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:requests\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\updatebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\updatebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\reader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\reader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\worker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\worker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\reader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\reader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\searcreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\searcreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\requests\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:requests\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\searcreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\searcreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\requests\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:requests\\bookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\srearcbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\srearcbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\updatebook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\updatebook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\updatebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\updatebook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\librarylycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\librarylycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\searcreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\searcreader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\reader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\reader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\worker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\worker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\srearcbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\srearcbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\worker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -59,24 +87,12 @@
       "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\searcreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\searcreader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\card.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\card.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\librarylycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\librarylycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\front.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -93,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\models\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:models\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|c:\\\u043B\u044B\u043A\u043E\u0432 \u043C \u0432\\front\\window\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F5C7C1A2-589D-4E8E-ADDE-98A71FCD5E70}|front.csproj|solutionrelative:window\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,21 +118,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 29,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateBook.xaml.cs",
-              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml.cs",
-              "RelativeDocumentMoniker": "window\\UpdateBook.xaml.cs",
-              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml.cs",
-              "RelativeToolTip": "window\\UpdateBook.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowDIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:21:38.756Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -159,7 +158,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\requests\\Service.cs",
+              "RelativeDocumentMoniker": "requests\\Service.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\requests\\Service.cs",
+              "RelativeToolTip": "requests\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:06:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBook.xaml.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\AddBook.xaml.cs",
+              "RelativeDocumentMoniker": "window\\AddBook.xaml.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\AddBook.xaml.cs",
+              "RelativeToolTip": "window\\AddBook.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwDoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:57:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateBook.xaml",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml",
+              "RelativeDocumentMoniker": "window\\UpdateBook.xaml",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml",
+              "RelativeToolTip": "window\\UpdateBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T04:56:11.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:10:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRequest.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\requests\\BookRequest.cs",
+              "RelativeDocumentMoniker": "requests\\BookRequest.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\requests\\BookRequest.cs",
+              "RelativeToolTip": "requests\\BookRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:06:27.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateBook.xaml.cs",
+              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml.cs",
+              "RelativeDocumentMoniker": "window\\UpdateBook.xaml.cs",
+              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml.cs",
+              "RelativeToolTip": "window\\UpdateBook.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:21:38.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "UserRequest.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\requests\\UserRequest.cs",
               "RelativeDocumentMoniker": "requests\\UserRequest.cs",
@@ -167,12 +243,11 @@
               "RelativeToolTip": "requests\\UserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:19:41.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:19:41.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Writer.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Writer.cs",
               "RelativeDocumentMoniker": "models\\Writer.cs",
@@ -185,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "SearcReader.xaml.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SearcReader.xaml.cs",
               "RelativeDocumentMoniker": "window\\SearcReader.xaml.cs",
@@ -198,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "SearcReader.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SearcReader.xaml",
               "RelativeDocumentMoniker": "window\\SearcReader.xaml",
@@ -210,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "SrearcBook.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\SrearcBook.xaml",
               "RelativeDocumentMoniker": "window\\SrearcBook.xaml",
@@ -222,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Worker.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Worker.xaml",
               "RelativeDocumentMoniker": "window\\Worker.xaml",
@@ -234,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\User.cs",
               "RelativeDocumentMoniker": "models\\User.cs",
@@ -242,12 +317,11 @@
               "RelativeToolTip": "models\\User.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAIA1wBkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:57:22.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T10:57:22.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Chapter.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Chapter.cs",
               "RelativeDocumentMoniker": "models\\Chapter.cs",
@@ -260,20 +334,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "LibraryLyContext.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\LibraryLyContext.cs",
               "RelativeDocumentMoniker": "models\\LibraryLyContext.cs",
               "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\LibraryLyContext.cs",
               "RelativeToolTip": "models\\LibraryLyContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJ0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T10:29:15.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Card.xaml.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Card.xaml.cs",
               "RelativeDocumentMoniker": "window\\Card.xaml.cs",
@@ -281,25 +355,24 @@
               "RelativeToolTip": "window\\Card.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAtwB8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:55:27.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T09:55:27.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAWwEcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAMwC4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T09:49:39.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Authorization.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Authorization.cs",
               "RelativeDocumentMoniker": "models\\Authorization.cs",
@@ -311,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\models\\Book.cs",
               "RelativeDocumentMoniker": "models\\Book.cs",
@@ -324,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Worker.xaml.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Worker.xaml.cs",
               "RelativeDocumentMoniker": "window\\Worker.xaml.cs",
@@ -332,25 +405,24 @@
               "RelativeToolTip": "window\\Worker.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAEwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:43:12.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T09:43:12.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "reader.xaml.cs",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\reader.xaml.cs",
               "RelativeDocumentMoniker": "window\\reader.xaml.cs",
               "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\reader.xaml.cs",
               "RelativeToolTip": "window\\reader.xaml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAqwIAAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywJ0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T09:43:08.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -362,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "front.csproj",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\front.csproj",
               "RelativeDocumentMoniker": "front.csproj",
@@ -370,12 +442,11 @@
               "RelativeToolTip": "front.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T09:42:54.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T09:42:54.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 8,
               "Title": "AddBook.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\AddBook.xaml",
               "RelativeDocumentMoniker": "window\\AddBook.xaml",
@@ -387,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "reader.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\reader.xaml",
               "RelativeDocumentMoniker": "window\\reader.xaml",
@@ -399,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Card.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Card.xaml",
               "RelativeDocumentMoniker": "window\\Card.xaml",
@@ -411,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Admin.xaml",
               "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\Admin.xaml",
               "RelativeDocumentMoniker": "window\\Admin.xaml",
@@ -419,52 +490,6 @@
               "RelativeToolTip": "window\\Admin.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-24T09:41:43.621Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "69d0126e-cacd-4e96-95b8-3ea37122e1de",
-        "Display": 1,
-        "X": -580,
-        "Y": 292,
-        "Width": 1268,
-        "Height": 736,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookRequest.cs",
-              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\requests\\BookRequest.cs",
-              "RelativeDocumentMoniker": "requests\\BookRequest.cs",
-              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\requests\\BookRequest.cs",
-              "RelativeToolTip": "requests\\BookRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:20:00.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateBook.xaml",
-              "DocumentMoniker": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml",
-              "RelativeDocumentMoniker": "window\\UpdateBook.xaml",
-              "ToolTip": "C:\\\u041B\u044B\u043A\u043E\u0432 \u041C \u0412\\front\\window\\UpdateBook.xaml",
-              "RelativeToolTip": "window\\UpdateBook.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-24T09:42:21.507Z",
               "EditorCaption": ""
             }
           ]

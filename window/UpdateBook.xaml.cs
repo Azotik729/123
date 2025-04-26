@@ -35,20 +35,24 @@ namespace LykovFront.window
             this.baseUrl = baseUrl;
         }
  
-         public  async void PostNewBook( BookRequest book)
-        {
-            NameBookTextBox.Text = book.Name;
-            WriterBookTextBook.Text = Convert.ToString( book.IdWriter);
-            DataPostBookTextBox.Text = book.DataPost;
-            PriceBookTextBox.Text = Convert.ToString( book.Price);
-            return ;
+        // public  async void addbook( BookRequest book)
+        //{
+        //    book.Name = NameBookTextBox.Text;
+        //    book.idWriter = Convert.ToInt32( WriterBookTextBook.Text) ;
+        //    book.dataPost = DataPostBookTextBox.Text ;
+        //    book.price = Convert.ToDecimal (PriceBookTextBox.Text) ;
+        //    //NameBookTextBox.Text = book.Name;
+        //    //WriterBookTextBook.Text = Convert.ToString( book.IdWriter);
+        //    //DataPostBookTextBox.Text = book.DataPost;
+        //    //PriceBookTextBox.Text = Convert.ToString( book.Price);
+        //    return ;
            
-        }
+        //}
 
         private async void AddBookButton_Click(object sender, RoutedEventArgs e)
         {
-            var book = new BookRequest(NameBookTextBox.Text, WriterBookTextBook.Text,DataPostBookTextBox.Text, Convert.ToDecimal(PriceBookTextBox.Text));
-            //Service.addbook();
+            var book = new BookRequest(NameBookTextBox.Text,Convert.ToInt32 (WriterBookTextBook.Text),DataPostBookTextBox.Text, Convert.ToDecimal(PriceBookTextBox.Text));
+         
             var userJson = JsonSerializer.Serialize(book);
             var content = new StringContent(userJson, Encoding.UTF8, "application/json");
             var response = await client_.PostAsync($"{baseUrl}/Book", content);

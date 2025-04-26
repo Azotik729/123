@@ -7,17 +7,19 @@
         mc:Ignorable="d"
         Title="reader" Height="404" Width="679">
     <Grid>
-        <Button x:Name="ButtonReader" Content="карточка читателя" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="137" BorderBrush="#FF5643B3" Background="White" Foreground="#FF5643B3" Click="ButtonReader_Click"/>
         <Button x:Name="Buttonexit" Content="Выход" HorizontalAlignment="Left" Margin="569,35,0,0" VerticalAlignment="Top" Width="81" BorderBrush="#FF5643B3" Background="White" Foreground="#FF5643B3"/>
         <TextBox x:Name="searcTextBox" HorizontalAlignment="Left" Margin="10,92,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="204" BorderBrush="#FF5643B3"/>
         <Button x:Name="ButtonSearch" Content="поиск" HorizontalAlignment="Left" Margin="235,91,0,0" VerticalAlignment="Top" Width="82" Background="White" BorderBrush="#FF5643B3" Foreground="#FF5643B3" Click="ButtonSearch_Click"/>
-        <ComboBox x:Name="WriterComboBox" HorizontalAlignment="Left" Margin="362,92,0,0" VerticalAlignment="Top" Width="120" Height="19" BorderBrush="#FF5643B3"/>
-        <ComboBox x:Name="ChapterComboBox" HorizontalAlignment="Left" Margin="530,92,0,0" VerticalAlignment="Top" Width="120" Height="18" BorderBrush="#FF5643B3"/>
-        <DataGrid x:Name="grid" d:ItemsSource="{d:SampleData ItemCount=5}" AutoGenerateColumns="False" Margin="10,150,29,44" Background="White" BorderBrush="#FF5643B3" Foreground="#FF5643B3" SelectionChanged="DataGrid_SelectionChanged">
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="фылвфлыв" Binding="{Binding }"/>
-            </DataGrid.Columns>
-        </DataGrid>
+        <ComboBox x:Name="WriterComboBox" SelectedValue="id" DisplayMemberPath="name" HorizontalAlignment="Left" Margin="362,92,0,0" VerticalAlignment="Top" Width="120" Height="19" BorderBrush="#FF5643B3"/>
+        <ComboBox x:Name="ChapterComboBox" SelectedValue="id" DisplayMemberPath="name" HorizontalAlignment="Left" Margin="530,92,0,0" VerticalAlignment="Top" Width="120" Height="18" BorderBrush="#FF5643B3"/>
+        <DataGrid x:Name="grid"  AutoGenerateColumns="True" Margin="10,150,29,44" Background="White" BorderBrush="#FF5643B3" Foreground="#FF5643B3" SelectionChanged="DataGrid_SelectionChanged"/>
+        <Button Content="Добавить книгу" HorizontalAlignment="Left" Margin="20,20,0,0" VerticalAlignment="Top" Width="120" Background="#FFFFFEFE" BorderBrush="#FF5643B3" Foreground="#FF5643B3" Click="Button_Click"/>
+        <Button Content="изменить" HorizontalAlignment="Left" Margin="20,40,0,0" VerticalAlignment="Top" Width="120" Background="#FFFFFEFE" BorderBrush="#FF5643B3" Foreground="#FF5643B3" Click="Button_Click_1"/>
+        <Button Content="удалить" HorizontalAlignment="Left" Margin="20,60,0,0" VerticalAlignment="Top" Width="120" Background="#FFFFFEFE" BorderBrush="#FF5643B3" Foreground="#FF5643B3" Click="Button_Click_2"/>
+
+
+
+
 
     </Grid>
 </Window>

@@ -61,7 +61,7 @@ namespace LykovFront.window {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/front;V1.0.0.0;component/window/card.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/front;component/window/card.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\window\Card.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

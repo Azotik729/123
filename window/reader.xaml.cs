@@ -25,6 +25,7 @@ namespace LykovFront.window
     {
         private readonly User user_;
         private readonly HttpClient client_;
+        private Book deleatBook = new Book();
         private readonly string baseUrl;
 
         public reader(User user, HttpClient client, string baseUrl)
@@ -83,7 +84,10 @@ namespace LykovFront.window
 
         private async void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-
+            if (grid.SelectedItem is Book book)
+            {
+                deleatBook = book;
+            }
         }
 
         public async Task<List<Writer>> FillWriter()
@@ -130,6 +134,38 @@ namespace LykovFront.window
             vdn.Show();
             this.Close();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var vdn = new UpdateBook(user_, client_, baseUrl);
+            vdn.Show();
+            this.Close();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var vdn = new AddBook(user_, client_, baseUrl);
+            vdn.Show();
+            this.Close();
+        }
+        public async Task<List<Book>> Fill(string name)
+        {
+            var response = await client_.DeleteAsync($"{baseUrl}/Book/{name}");
+            var content = await response.Content.ReadAsStringAsync();
+            var chapters = JsonSerializer.Deserialize<List<Book>>(content);
+            grid.ItemsSource =chapters;
+            return chapters;
+        }
+        private  void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            if (deleatBook != null)
+            {
+                var deleteBook = grid.SelectedItem as Book;
+                Fill(deleteBook.name);
+            }
+        }
+
+       
     }
     }
 

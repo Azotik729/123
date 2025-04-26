@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 C:\Лыков М В\front\App.xaml
 91851464995
 
-24-343346628
+26-18670553
 200-423684338
 MainWindow.xaml;window\AddBook.xaml;window\Admin.xaml;window\Card.xaml;window\reader.xaml;window\SearcReader.xaml;window\SrearcBook.xaml;window\UpdateBook.xaml;window\Worker.xaml;
 
-True
+False
 
